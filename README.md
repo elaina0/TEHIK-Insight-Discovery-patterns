@@ -1,0 +1,1 @@
+# TEHIK-Insight-Discovery-patterns
